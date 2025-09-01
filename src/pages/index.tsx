@@ -195,13 +195,13 @@ export default function TraditionalInvitation() {
             </div>
 
             {/* Venue */}
-                  <p className="mt-6 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg font-devanagari">
+                  <p className="mt-4 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg font-devanagari">
   <i className="fas fa-map-marker-alt mr-2"></i>
   स्थळ : पाटील गल्ली, गणपती मंदिर जवळ, माळभाग, शिरढोण
 </p>
 
             {/* Host */}
-            <p className="mt-5 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg text-center font-devanagari">
+            <p className="mt-0 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg text-center font-devanagari">
               <i className="fas fa-user-circle mr-2"></i>
              निमंत्रक : सुरवे, सासणे, गारवे
             </p>
@@ -316,7 +316,7 @@ export default function TraditionalInvitation() {
               </div>
 
               {/* Message */}
-              <div className="mt-6 px-4 leading-relaxed font-serif text-pink-900 text-base md:text-lg drop-shadow-md">
+              <div className="mt-4 px-4 leading-relaxed font-serif text-pink-900 text-base md:text-lg drop-shadow-md">
                 <p className="font-devanagari">
                   🪔 स्वप्न एका नव्या वास्तूचे, साकार झाले आपल्या आशीर्वादाने।
                   कार्य नूतन गृहाचे वास्तुशांतीचे, योजिले श्री कुलदेवताच्या कृपेने।
@@ -334,7 +334,7 @@ export default function TraditionalInvitation() {
   स्थळ : पाटील गल्ली, गणपती मंदिर जवळ, माळभाग, शिरढोण
 </p>
 
-<p className="mt-5 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg font-devanagari">
+<p className="mt-0 font-bold text-base md:text-lg text-pink-900 drop-shadow-lg font-devanagari">
   <i className="fas fa-user-circle mr-2"></i>
   निमंत्रक : सुरवे, सासणे, गारवे
 </p>
